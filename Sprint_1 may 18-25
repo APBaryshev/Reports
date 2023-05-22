@@ -7,6 +7,13 @@ POSTMAN
 2
 Jira Task#5
 используя JavaScript
-отправлен API Get запрос к сервису
+отправлен API Get запрос к сервису https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/
 результат запроса (response) выведен в консоль
 залит код на GitHub https://github.com/APBaryshev/Jira-JavaScript/blob/main/Task_5
+
+3
+Jira Task#6
+используя JavaScript
+отправлен API Post запрос c телом к сервису https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity
+результат запроса (response) выведен в консоль
+залить код на GitHub
