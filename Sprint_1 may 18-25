@@ -1,4 +1,10 @@
 POSTMAN
-1 Cоздал коллекцию API запросов Yandex_ID и Yandex_Почта:
-2 Выполнил RUN коллекции;
-3 Созданные коллекции залил на GitHub https://github.com/APBaryshev/Jira-Postman
+1 Cозданы коллекции API запросов Yandex_ID и Yandex_Почта:
+2 Выполнены RUN коллекции;
+3 Созданные коллекции залиты на GitHub https://github.com/APBaryshev/Jira-Postman
+
+Jira 5
+используя JavaScript
+отправлен API Get запрос к сервису
+результат запроса (response) выведен в консоль
+залит код на GitHub
